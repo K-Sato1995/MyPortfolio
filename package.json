@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "main": "index.js",
-  "homepage":"https://k-sato1995.github.io/MyPortfolio",
   "scripts":{
-    "deploy": "gh-pages -d src"
+    "deploy": "gh-pages -d portfolio"
   },
+  "homepage":"https://k-sato1995.github.io/MyPortfolio/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.5.2",
