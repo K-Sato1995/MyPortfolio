@@ -6,8 +6,7 @@ class Main extends React.Component {
   render(){
     return (
       <div className = 'container'>
-        <h1>My portfolio</h1>
-        <Route exact path= '/' component={Home}/>
+        <Route exact path= '/MyPortfolio' component={Home}/>
       </div>
     )
   }
