@@ -16,13 +16,13 @@
   display: inline-block;
 }
 
-.nav-list-item, a {
+.nav-list-item > a {
   font-size: 20px;
   letter-spacing: 2px;
   font-weight: lighter;
   color: #fff;
 }
 
-.nav-list-item, a:hover, a:visited {
+.nav-list-item > a:hover, .nav-list-item > a:visited {
   color: #fff;
 }
