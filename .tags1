@@ -4,11 +4,10 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-.aboutImage	/Users/katsuki/Desktop/React/portfolio/src/Style/About.css	/^.aboutImage {$/;"	function	line:1
-.layer	/Users/katsuki/Desktop/React/portfolio/src/Style/About.css	/^.layer {$/;"	function	line:12
-.about-container	/Users/katsuki/Desktop/React/portfolio/src/Style/About.css	/^.about-container {$/;"	function	line:21
-.about-container > h1	/Users/katsuki/Desktop/React/portfolio/src/Style/About.css	/^.about-container > h1 {$/;"	function	line:27
-.about-left	/Users/katsuki/Desktop/React/portfolio/src/Style/About.css	/^.about-left {$/;"	function	line:34
-.about-me-image	/Users/katsuki/Desktop/React/portfolio/src/Style/About.css	/^.about-me-image {$/;"	function	line:38
-.about-right	/Users/katsuki/Desktop/React/portfolio/src/Style/About.css	/^.about-right {$/;"	function	line:44
-.about-description	/Users/katsuki/Desktop/React/portfolio/src/Style/About.css	/^.about-description {$/;"	function	line:48
+.homeImage	/Users/katsuki/Desktop/React/portfolio/src/Style/Home.css	/^.homeImage {$/;"	function	line:1
+.layer	/Users/katsuki/Desktop/React/portfolio/src/Style/Home.css	/^.layer {$/;"	function	line:12
+.home-title	/Users/katsuki/Desktop/React/portfolio/src/Style/Home.css	/^.home-title {$/;"	function	line:21
+.home-description	/Users/katsuki/Desktop/React/portfolio/src/Style/Home.css	/^.home-description {$/;"	function	line:30
+.read-more	/Users/katsuki/Desktop/React/portfolio/src/Style/Home.css	/^.read-more {$/;"	function	line:38
+.read-more > a	/Users/katsuki/Desktop/React/portfolio/src/Style/Home.css	/^.read-more > a {$/;"	function	line:43
+.read-more > a:hover	/Users/katsuki/Desktop/React/portfolio/src/Style/Home.css	/^.read-more > a:hover {$/;"	function	line:53

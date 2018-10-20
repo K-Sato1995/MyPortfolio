@@ -1,29 +1,29 @@
-.navbar {
+.home-navbar {
   z-index: 1;
   padding: 10px;
-  border-bottom: solid 1px;
 }
 
-.nav-list {
+.home-nav-list {
   margin-top: 20px;
   margin-left: -50px;
   list-style: none;
   text-align: center;
 }
 
-.nav-list-item {
+.home-nav-list-item {
   margin-right: 70px;
   margin-left: 50px;
   text-decoration: none;
   display: inline-block;
 }
 
-.nav-list-item > a {
+.home-nav-list-item > a {
   font-size: 20px;
   letter-spacing: 2px;
-  color: #000000;
+  font-weight: lighter;
+  color: #fff;
 }
 
-.nav-list-item > a:hover, .nav-list-item > a:visited {
-  color: #000000;
+.home-nav-list-item > a:hover, .home-nav-list-item > a:visited {
+  color: #fff;
 }
