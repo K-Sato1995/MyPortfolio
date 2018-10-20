@@ -4,4 +4,11 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-render	/Users/katsuki/Desktop/React/portfolio/src/Components/Main/Home.js	/^  render(){$/;"	function	line:6
+.aboutImage	/Users/katsuki/Desktop/React/portfolio/src/Style/About.css	/^.aboutImage {$/;"	function	line:1
+.layer	/Users/katsuki/Desktop/React/portfolio/src/Style/About.css	/^.layer {$/;"	function	line:12
+.about-container	/Users/katsuki/Desktop/React/portfolio/src/Style/About.css	/^.about-container {$/;"	function	line:21
+.about-container > h1	/Users/katsuki/Desktop/React/portfolio/src/Style/About.css	/^.about-container > h1 {$/;"	function	line:27
+.about-left	/Users/katsuki/Desktop/React/portfolio/src/Style/About.css	/^.about-left {$/;"	function	line:34
+.about-me-image	/Users/katsuki/Desktop/React/portfolio/src/Style/About.css	/^.about-me-image {$/;"	function	line:38
+.about-right	/Users/katsuki/Desktop/React/portfolio/src/Style/About.css	/^.about-right {$/;"	function	line:44
+.about-description	/Users/katsuki/Desktop/React/portfolio/src/Style/About.css	/^.about-description {$/;"	function	line:48
