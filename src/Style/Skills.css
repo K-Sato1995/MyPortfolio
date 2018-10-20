@@ -1,0 +1,24 @@
+.skills-container {
+  margin: 0 auto;
+  width: 90%;
+}
+
+.skills-container > h1 {
+  text-align: center;
+  letter-spacing: 2px;
+  font-size: 50px;
+}
+
+.skills-list {
+  margin: 0 auto;
+  border: solid 1px;
+  max-width: 1100px;
+}
+
+.skills-box {
+  margin: 30px;
+  width: 280px;
+  height: 330px;
+  display: inline-block;
+  background-color: rgba(20,20,20, 0.4);
+}
