@@ -1,0 +1,34 @@
+render	/Users/katsuki/Desktop/React/portfolio/src/Components/Main/Skills.js	/^  render(){$/;"	function	line:4
+render	/Users/katsuki/Desktop/React/portfolio/src/Components/App.js	/^  render() {$/;"	function	line:8
+render	/Users/katsuki/Desktop/React/portfolio/src/Components/Main/HomeNav.js	/^  render(){$/;"	function	line:6
+render	/Users/katsuki/Desktop/React/portfolio/src/Components/Nav/Nav.js	/^  render(){$/;"	function	line:6
+.navbar	/Users/katsuki/Desktop/React/portfolio/src/Style/Nav.css	/^.navbar {$/;"	function	line:1
+.nav-list	/Users/katsuki/Desktop/React/portfolio/src/Style/Nav.css	/^.nav-list {$/;"	function	line:5
+.nav-list-item	/Users/katsuki/Desktop/React/portfolio/src/Style/Nav.css	/^.nav-list-item {$/;"	function	line:12
+.nav-list-item > a	/Users/katsuki/Desktop/React/portfolio/src/Style/Nav.css	/^.nav-list-item > a {$/;"	function	line:19
+.nav-list-item > a:hover, .nav-list-item > a:visited	/Users/katsuki/Desktop/React/portfolio/src/Style/Nav.css	/^.nav-list-item > a:hover, .nav-list-item > a:visited {$/;"	function	line:26
+html	/Users/katsuki/Desktop/React/portfolio/public/index.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/katsuki/Desktop/React/portfolio/public/index.html	/^  <head>$/;"	function	line:3
+meta	/Users/katsuki/Desktop/React/portfolio/public/index.html	/^    <meta charset="utf-8">$/;"	function	line:4
+link	/Users/katsuki/Desktop/React/portfolio/public/index.html	/^    <link rel="shortcut icon" href="%PUBLIC_URL%\/favicon.ico">$/;"	function	line:5
+meta	/Users/katsuki/Desktop/React/portfolio/public/index.html	/^    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">$/;"	function	line:6
+meta	/Users/katsuki/Desktop/React/portfolio/public/index.html	/^    <meta name="theme-color" content="#000000">$/;"	function	line:7
+link	/Users/katsuki/Desktop/React/portfolio/public/index.html	/^    <link rel="stylesheet" href="https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.min.css">$/;"	function	line:8
+link	/Users/katsuki/Desktop/React/portfolio/public/index.html	/^    <link rel="stylesheet" href="https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.3.7\/css\/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz\/K68vbdEjh4u" crossorigin="anonymous">$/;"	function	line:9
+link	/Users/katsuki/Desktop/React/portfolio/public/index.html	/^    <link rel="manifest" href="%PUBLIC_URL%\/manifest.json">$/;"	function	line:10
+title	/Users/katsuki/Desktop/React/portfolio/public/index.html	/^    <title>K-Sato's Portfolio<\/title>$/;"	function	line:11
+body	/Users/katsuki/Desktop/React/portfolio/public/index.html	/^  <body>$/;"	function	line:13
+noscript	/Users/katsuki/Desktop/React/portfolio/public/index.html	/^    <noscript>$/;"	function	line:14
+div	/Users/katsuki/Desktop/React/portfolio/public/index.html	/^    <div id="root"><\/div>$/;"	function	line:17
+.homeImage	/Users/katsuki/Desktop/React/portfolio/src/Style/Home.css	/^.homeImage {$/;"	function	line:1
+.layer	/Users/katsuki/Desktop/React/portfolio/src/Style/Home.css	/^.layer {$/;"	function	line:12
+.home-title	/Users/katsuki/Desktop/React/portfolio/src/Style/Home.css	/^.home-title {$/;"	function	line:21
+.home-description	/Users/katsuki/Desktop/React/portfolio/src/Style/Home.css	/^.home-description {$/;"	function	line:30
+.read-more	/Users/katsuki/Desktop/React/portfolio/src/Style/Home.css	/^.read-more {$/;"	function	line:38
+.read-more > a	/Users/katsuki/Desktop/React/portfolio/src/Style/Home.css	/^.read-more > a {$/;"	function	line:43
+.read-more > a:hover	/Users/katsuki/Desktop/React/portfolio/src/Style/Home.css	/^.read-more > a:hover {$/;"	function	line:53
+.copy-right	/Users/katsuki/Desktop/React/portfolio/src/Style/Home.css	/^.copy-right {$/;"	function	line:59
+.link-list	/Users/katsuki/Desktop/React/portfolio/src/Style/Home.css	/^.link-list {$/;"	function	line:68
+.link-list > a	/Users/katsuki/Desktop/React/portfolio/src/Style/Home.css	/^.link-list > a {$/;"	function	line:75
+.link-list > a:hover	/Users/katsuki/Desktop/React/portfolio/src/Style/Home.css	/^.link-list > a:hover {$/;"	function	line:85
+render	/Users/katsuki/Desktop/React/portfolio/src/Components/Main/Home.js	/^  render(){$/;"	function	line:6

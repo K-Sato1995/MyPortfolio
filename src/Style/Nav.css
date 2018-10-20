@@ -1,0 +1,28 @@
+.navbar {
+  z-index: 1;
+}
+
+.nav-list {
+  margin-top: 30px;
+  margin-left: -50px;
+  list-style: none;
+  text-align: center;
+}
+
+.nav-list-item {
+  margin-right: 70px;
+  margin-left: 50px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.nav-list-item > a {
+  font-size: 20px;
+  letter-spacing: 2px;
+  font-weight: lighter;
+  color: #fff;
+}
+
+.nav-list-item > a:hover, .nav-list-item > a:visited {
+  color: #fff;
+}
