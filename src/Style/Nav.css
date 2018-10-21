@@ -1,7 +1,8 @@
 .navbar {
   z-index: 1;
   padding: 10px;
-  border-bottom: solid 1px;
+  border-bottom: solid 1px #efefef;
+  /* background: linear-gradient(to bottom left, #ccffff 0%, #ffffcc 100%); */
 }
 
 .nav-list {
@@ -21,9 +22,10 @@
 .nav-list-item > a {
   font-size: 20px;
   letter-spacing: 2px;
-  color: #000000;
+  color: #000;
 }
 
-.nav-list-item > a:hover, .nav-list-item > a:visited {
-  color: #000000;
+.nav-list-item > a:hover {
+  color: gray;
+  text-decoration: none;
 }
