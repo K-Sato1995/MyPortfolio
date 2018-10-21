@@ -6,19 +6,221 @@
 .skills-container > h1 {
   text-align: center;
   letter-spacing: 2px;
-  font-size: 50px;
+  font-size: 40px;
 }
 
 .skills-list {
   margin: 0 auto;
-  border: solid 1px;
+  text-align: center;
   max-width: 1100px;
 }
 
 .skills-box {
-  margin: 30px;
-  width: 280px;
-  height: 330px;
+  position: relative;
+  margin: 50px 40px 40px 40px;
+  min-width: 280px;
+  min-height: 340px;
   display: inline-block;
-  background-color: rgba(20,20,20, 0.4);
+  border: solid 1px #efefef;
+  box-shadow: 6px 5px 39px -8px rgba(239,239,239,1);
+}
+
+.skills-box > h3 {
+  margin-top: 70px;
+  letter-spacing: 5px;
+  color: #565656;
+}
+
+.skill-logo {
+  margin: 0 auto;
+  padding: 5px;
+  padding-top: 25px;
+  position: absolute;
+  top: -30px;
+  right: 100px;
+  height: 80px;
+  width: 80px;
+  border: solid 1px #efefef;
+  border-radius: 50%;
+  text-align: center;
+  letter-spacing: 3px;
+  font-size: 18px;
+  color: #fff;
+}
+
+.skill-image {
+  margin: 0 auto;
+  position: absolute;
+  top: -30px;
+  right: 100px;
+  height: 80px;
+  width: 80px;
+}
+
+#React-image {
+  width: 110px;
+  right: 90px;
+}
+/* IMAGE ID */
+#HTML {
+  background-color: #E44C26;
+}
+
+#CSS {
+  background-color: #31A4D6;
+}
+
+#SASS {
+  background-color: #C66594;
+}
+
+#Javascript {
+  background-color: #EAD54D;
+  font-weight: bold;
+  color: #000;
+}
+
+#Ruby {
+  background-color: #C80001;
+}
+
+#Go {
+  background-color: #72C8D8;
+  font-weight: bold;
+}
+
+#Rails {
+  background-color: #C80001;
+  font-weight: bold;
+}
+
+#React {
+  background-color: #5DD4F4;
+}
+
+#Bstrap {
+  padding-top: 22px;
+  background-color: #7953B3;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.progress {
+  margin: 0 auto;
+  width: 240px;
+  height: 10px;
+}
+
+.processbar-title {
+  margin-top: 20px;
+  letter-spacing: 2px;
+  color: #757A7E;
+}
+
+.skill-description {
+  margin: 0 auto;
+  margin-top: 20px;
+  max-width: 240px;
+  letter-spacing: 1px;
+  color: #757A7E;
+}
+
+/* Progress ID */
+/* over 90%
+background: linear-gradient(to bottom right, #ccffff 0%, #ffffcc 100%); */
+
+/* over 60%
+background: linear-gradient(to bottom right, #ccccff 0%, #ccffff 100%); */
+
+/* less than 50%
+background: linear-gradient(to bottom right, #ffcccc 0%, #ffffcc 100%); */
+
+#HTML-proficiency {
+  background: linear-gradient(to bottom right, #ccffff 0%, #ffffcc 100%);
+  width: 90%;
+}
+
+#HTML-experience {
+  background: linear-gradient(to bottom right, #ccffff 0%, #ffffcc 100%);
+  width: 90%;
+}
+
+#CSS-proficiency {
+  background: linear-gradient(to bottom right, #ccffff 0%, #ffffcc 100%);
+  width: 90%;
+}
+
+#CSS-experience {
+  background: linear-gradient(to bottom right, #ccccff 0%, #ccffff 100%);
+  width: 70%;
+}
+
+#SASS-proficiency {
+  background: linear-gradient(to bottom right, #ccccff 0%, #ccffff 100%);
+  width: 80%;
+}
+
+#SASS-experience {
+  background: linear-gradient(to bottom right, #ccccff 0%, #ccffff 100%);
+  width: 80%;
+}
+
+#JS-proficiency {
+  background: linear-gradient(to bottom right, #ccccff 0%, #ccffff 100%);
+  width: 80%;
+}
+
+#JS-experience {
+  background: linear-gradient(to bottom right, #ffcccc 0%, #ffffcc 100%);
+  width: 50%;
+}
+
+#Ruby-proficiency {
+  background: linear-gradient(to bottom right, #ccffff 0%, #ffffcc 100%);
+  width: 90%;
+}
+
+#Ruby-experience {
+  background: linear-gradient(to bottom right, #ccffff 0%, #ffffcc 100%);
+  width: 90%;
+}
+
+#Go-proficiency {
+  background: linear-gradient(to bottom right, #ffcccc 0%, #ffffcc 100%);
+  width: 50%;
+}
+
+#Go-experience {
+  background: linear-gradient(to bottom right, #ffcccc 0%, #ffffcc 100%);
+  width: 20%;
+}
+
+#Rails-proficiency {
+  background: linear-gradient(to bottom right, #ccffff 0%, #ffffcc 100%);
+  width: 90%;
+}
+
+#Rails-experience {
+  background: linear-gradient(to bottom right, #ccffff 0%, #ffffcc 100%);
+  width: 90%;
+}
+
+#React-proficiency {
+  background: linear-gradient(to bottom right, #ccffff 0%, #ffffcc 100%);
+  width: 90%;
+}
+
+#React-experience {
+  background: linear-gradient(to bottom right, #ccccff 0%, #ccffff 100%);
+  width: 60%;
+}
+
+#Bstrap-proficiency {
+  background: linear-gradient(to bottom right, #ccffff 0%, #ffffcc 100%);
+  width: 90%;
+}
+
+#Bstrap-experience {
+  background: linear-gradient(to bottom right, #ccccff 0%, #ccffff 100%);
+  width: 60%;
 }

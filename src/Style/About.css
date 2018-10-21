@@ -6,7 +6,7 @@
 .about-container > h1 {
   text-align: center;
   letter-spacing: 2px;
-  font-size: 50px;
+  font-size: 40px;
 }
 
 .about-left {
@@ -25,6 +25,5 @@
 
 .about-description {
   font-size: 18px;
-  font-weight: lighter;
   letter-spacing: 2px;
 }
