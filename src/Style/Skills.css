@@ -4,9 +4,12 @@
 }
 
 .skills-container > h1 {
+  margin: 0;
+  margin-top: 40px;
   text-align: center;
   letter-spacing: 2px;
-  font-size: 40px;
+  font-size: 30px;
+  color: #565656;
 }
 
 .skills-list {
@@ -19,90 +22,21 @@
   position: relative;
   margin: 50px 40px 40px 40px;
   min-width: 280px;
-  min-height: 340px;
+  min-height: 350px;
   display: inline-block;
   border: solid 1px #efefef;
   box-shadow: 6px 5px 39px -8px rgba(239,239,239,1);
 }
 
+.skills-box:hover {
+  box-shadow: 0 15px 30px 0 rgba(0,0,0,0.11);
+}
+
 .skills-box > h3 {
-  margin-top: 70px;
+  margin-top: 40px;
+  margin-bottom: 30px;
   letter-spacing: 5px;
   color: #565656;
-}
-
-.skill-logo {
-  margin: 0 auto;
-  padding: 5px;
-  padding-top: 25px;
-  position: absolute;
-  top: -30px;
-  right: 100px;
-  height: 80px;
-  width: 80px;
-  border: solid 1px #efefef;
-  border-radius: 50%;
-  text-align: center;
-  letter-spacing: 3px;
-  font-size: 18px;
-  color: #fff;
-}
-
-.skill-image {
-  margin: 0 auto;
-  position: absolute;
-  top: -30px;
-  right: 100px;
-  height: 80px;
-  width: 80px;
-}
-
-#React-image {
-  width: 110px;
-  right: 90px;
-}
-/* IMAGE ID */
-#HTML {
-  background-color: #E44C26;
-}
-
-#CSS {
-  background-color: #31A4D6;
-}
-
-#SASS {
-  background-color: #C66594;
-}
-
-#Javascript {
-  background-color: #EAD54D;
-  font-weight: bold;
-  color: #000;
-}
-
-#Ruby {
-  background-color: #C80001;
-}
-
-#Go {
-  background-color: #72C8D8;
-  font-weight: bold;
-}
-
-#Rails {
-  background-color: #C80001;
-  font-weight: bold;
-}
-
-#React {
-  background-color: #5DD4F4;
-}
-
-#Bstrap {
-  padding-top: 22px;
-  background-color: #7953B3;
-  font-weight: bold;
-  font-size: 25px;
 }
 
 .progress {
@@ -119,7 +53,7 @@
 
 .skill-description {
   margin: 0 auto;
-  margin-top: 20px;
+  margin-top: 30px;
   max-width: 240px;
   letter-spacing: 1px;
   color: #757A7E;
