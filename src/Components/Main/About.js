@@ -6,7 +6,7 @@ class About extends React.Component {
   render(){
     return (
       <div className = 'about'>
-        <Nav />
+        <Nav navDescription = {"Hey! I'm K-Sato, a self-taught programmer who loves to learn new things"}/>
         <div className = 'row about-container'>
           <h1>About me</h1>
           <div className = 'col-md-6 about-left'>
