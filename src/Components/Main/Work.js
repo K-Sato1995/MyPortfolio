@@ -5,8 +5,10 @@ class Work extends React.Component {
   render(){
     return (
       <div>
-        <Nav />
+        <Nav navDescription = {'Here are some projects I have worked on'}/>
+        <div>
 
+        </div>
       </div>
     )
   }

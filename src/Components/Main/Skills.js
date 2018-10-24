@@ -8,7 +8,7 @@ class Skills extends React.Component {
       <div className = 'skills'>
         <Nav navDescription = {'Here are some languages, frameworks and tools that I am familiar with.'}/>
         <div className = 'skills-container'>
-          <h1>Languages</h1>
+          <h1>Languages<div className = 'border'></div></h1>
           <div className = 'skills-list'>
             <div className = 'skills-box'>
               <h3>HTML5</h3>
@@ -101,7 +101,7 @@ class Skills extends React.Component {
             </div>
           </div>
 
-          <h1 className = 'skills-title'>Frameworks</h1>
+          <h1 className = 'skills-title'>Frameworks<div className = 'border'></div></h1>
           <div className = 'skills-list'>
             <div className = 'skills-box'>
               <h3>Ruby on Rails</h3>
@@ -149,7 +149,7 @@ class Skills extends React.Component {
               <p className = 'skill-description'>I constantly use it on my personal projects and sometimes on projects at work.</p>
             </div>
           </div>
-          <h1 className = 'skills-title'>Tools</h1>
+          <h1 className = 'skills-title'>Tools<div className = 'border'></div></h1>
           <div className = 'skills-list'>
             <div className = 'skills-box'></div>
             <div className = 'skills-box'></div>
