@@ -4,6 +4,7 @@
   height: 290px;
   border-bottom: solid 1px #efefef;
   background: linear-gradient(to right, #00c3ff, #ffff1c);
+  box-shadow: 0 5px 20px rgba(0,0,0,0.11);
 }
 
 .navbar > h3 {

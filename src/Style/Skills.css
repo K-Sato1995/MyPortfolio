@@ -4,12 +4,23 @@
 }
 
 .skills-container > h1 {
+  position: relative;
   margin: 0;
   margin-top: 40px;
+  margin-bottom: 30px;
   text-align: center;
   letter-spacing: 2px;
   font-size: 30px;
   color: #565656;
+}
+
+.border {
+  position: absolute;
+  margin: 0 auto;
+  border-bottom: solid 2px;
+  width: 150px;
+  left: 44%;
+  bottom: -15px;
 }
 
 .skills-list {
@@ -20,7 +31,7 @@
 
 .skills-box {
   position: relative;
-  margin: 50px 40px 40px 40px;
+  margin: 30px;
   min-width: 280px;
   min-height: 350px;
   display: inline-block;
