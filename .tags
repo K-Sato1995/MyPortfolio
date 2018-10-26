@@ -9,5 +9,5 @@ render	/Users/katsuki/Desktop/React/portfolio/src/Components/Main/About.js	/^  r
 .nav-list-item	/Users/katsuki/Desktop/React/portfolio/src/Style/Nav.css	/^.nav-list-item {$/;"	function	line:29
 .nav-list-item > a	/Users/katsuki/Desktop/React/portfolio/src/Style/Nav.css	/^.nav-list-item > a {$/;"	function	line:36
 .nav-list-item > a:hover	/Users/katsuki/Desktop/React/portfolio/src/Style/Nav.css	/^.nav-list-item > a:hover {$/;"	function	line:43
+render	/Users/katsuki/Desktop/React/portfolio/src/Components/Main/Skills.js	/^  render(){$/;"	function	line:7
 render	/Users/katsuki/Desktop/React/portfolio/src/Components/Main/Work.js	/^  render(){$/;"	function	line:5
-render	/Users/katsuki/Desktop/React/portfolio/src/Components/Main/Skills.js	/^  render(){$/;"	function	line:6

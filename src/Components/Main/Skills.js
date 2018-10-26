@@ -1,6 +1,7 @@
 import React from 'react';
 import '../../Style/Skills.css';
 import Nav from '../Nav/Nav';
+import Footer from '../Footer/Footer';
 
 class Skills extends React.Component {
   render(){
@@ -156,6 +157,7 @@ class Skills extends React.Component {
             <div className = 'skills-box'></div>
           </div>
         </div>
+        <Footer />
       </div>
     )
   }
