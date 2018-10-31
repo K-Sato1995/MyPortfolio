@@ -1,0 +1,89 @@
+.work-container {
+  margin: 0 auto;
+  width: 90%;
+  border: solid 1px;
+}
+
+.work-list {
+  margin: 0 auto;
+  text-align: center;
+  max-width: 1100px;
+}
+
+.work-box {
+  position: relative;
+  margin: 30px;
+  width: 280px;
+  height: 320px;
+  display: inline-block;
+  border: solid 1px #efefef;
+  box-shadow: 6px 5px 39px -8px rgba(239,239,239,1);
+}
+
+.work-box:hover {
+  box-shadow: 0 15px 30px 0 rgba(0,0,0,0.11);
+}
+
+.work-box > h3 {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  letter-spacing: 5px;
+  font-size: 27px;
+  color: #565656;
+}
+
+.work-description {
+  margin: 0 auto;
+  max-width: 240px;
+  letter-spacing: 1px;
+  color: #757A7E;
+}
+
+.work-tags {
+  margin-top: 20px;
+  padding-left: 20px;
+  text-align: left;
+}
+
+.work-tags > li {
+  display: inline-block;
+  margin: 5px 5px 5px 5px;
+  width: 70px;
+  min-width: 50px;
+  border-radius: 5px;
+  list-style: none;
+  color: white;
+  text-align: center;
+}
+
+/* //////////////////TAG LIST///////////////////////// */
+.Ruby {
+  background-color: #E61221;
+}
+
+.Rails {
+  background-color: #E61221;
+}
+
+.JS {
+  background-color: #EAD54D;
+}
+
+.React {
+  background-color: #00D2F8;
+}
+
+.BS {
+  background-color: #563D7C;
+}
+
+.SASS {
+  background-color: #C76495;
+}
+/* ////////////////////////////////////////// */
+
+.work-link {
+  margin: 0 auto;
+  color: #B9B9B9;
+  font-size: 50px;
+}

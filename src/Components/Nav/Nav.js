@@ -6,11 +6,9 @@ class Nav extends React.Component {
   render(){
     return(
     <div className = 'navbar'>
-      <h1>{this.props.navTitle}</h1>
       <h3>{this.props.navDescription}</h3>
       <ul className = 'nav-list'>
         <li className = 'nav-list-item'><Link to= '/MyPortfolio'>Home</Link></li>
-        <li className = 'nav-list-item'><Link to= '/MyPortfolio/About'>About</Link></li>
         <li className = 'nav-list-item'><Link to= '/MyPortfolio/Skills'>Skills</Link></li>
         <li className = 'nav-list-item'><Link to= '/MyPortfolio/Work'>Work</Link></li>
         <li className = 'nav-list-item'><Link to= '/MyPortfolio/Contact'>Contact</Link></li>
