@@ -1,7 +1,6 @@
 .work-container {
   margin: 0 auto;
   width: 90%;
-  border: solid 1px;
 }
 
 .work-list {
@@ -79,6 +78,10 @@
 
 .SASS {
   background-color: #C76495;
+}
+
+.Jquery {
+  background-color: #0B5EA4;
 }
 /* ////////////////////////////////////////// */
 
